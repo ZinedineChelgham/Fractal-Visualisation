@@ -1,1 +1,1 @@
-**Clone and enjoy by clicking on the "index.html" file !**
+**enjoy :  https://fractal-visualisation.netlify.app/**
